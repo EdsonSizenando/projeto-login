@@ -34,6 +34,11 @@ grande telas: acima de 1200px
         width: 70%;
 
     }
+
+    div.campo > input{
+        width: calc(100% - 34%);
+       
+    }
     
 }
 
